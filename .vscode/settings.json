@@ -1,0 +1,11 @@
+{
+  "tailwindCSS.includeLanguages": {
+    "vue": "html",
+    "html": "html"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "tailwindCSS.experimental.classRegex": [],
+  "tailwindCSS.experimental.configFile": null
+}
